@@ -8,5 +8,5 @@
     "cm1": ["m", "", "CrtMdl"],
     "cm2": ["create-model", "", "CrtMdl"],
     "cd1": ["dao", "", "CrtDAO"],
-    "cc2": ["create-dao", "", "CrtDAO"]
+    "cd2": ["create-dao", "", "CrtDAO"]
 }
