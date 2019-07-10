@@ -1,0 +1,10 @@
+{                                                                                        
+	"sess": [
+		["Which session JWT or default?"],
+		["default", "jwt"]
+	],
+	"db": [
+		["Which database, MySQL, Postgresql, MongoDB, DynamoDB, SQLite or RAM?"],
+		["mysql", "postgresql", "mongodb", "dynamodb", "sqlite", "ram"]
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "l1" : ["l", "", "LstRsr"],
+    "l2" : ["list", "", "LstRsr"],    
+    "cp1": ["c","","CrtPrj"],
+    "cp2": ["create-project", "", "CrtPrj"],
+    "cc1": ["ct", "", "CratCtlr"],
+    "cc2": ["create-controller", "", "CrtCtrlr"],
+    "cm1": ["m", "", "CrtMdl"],
+    "cm2": ["create-model", "", "CrtMdl"],
+    "cd1": ["dao", "", "CrtDAO"],
+    "cc2": ["create-dao", "", "CrtDAO"]
+}
