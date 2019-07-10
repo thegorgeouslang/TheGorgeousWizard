@@ -34,7 +34,7 @@ func main() {
 
 	for k, v := range wolv {
 		if len(*v) > 0 {
-			_ = reflect.ValueOf(&app).MethodByName(cmds[k][2]).
+			_ = reflect.ValueOf(&app).MethodByName(cmds[k][3]).
 				Call([]reflect.Value{
 					reflect.ValueOf(*v),
 				})

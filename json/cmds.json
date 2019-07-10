@@ -1,12 +1,12 @@
 {
-    "l1" : ["l", "", "LstRsr"],
-    "l2" : ["list", "", "LstRsr"],    
-    "cp1": ["c","","CrtPrj"],
-    "cp2": ["create-project", "", "CrtPrj"],
-    "cc1": ["ct", "", "CratCtlr"],
-    "cc2": ["create-controller", "", "CrtCtrlr"],
-    "cm1": ["m", "", "CrtMdl"],
-    "cm2": ["create-model", "", "CrtMdl"],
-    "cd1": ["dao", "", "CrtDAO"],
-    "cd2": ["create-dao", "", "CrtDAO"]
+    "l1" : ["l", "", "Resources List","LstRsr"],
+    "l2" : ["list", "", "Resources List", "LstRsr"],    
+    "cp1": ["c","","Create Project", "CrtPrj"],
+    "cp2": ["create-project", "", "Create Project", "CrtPrj"],
+    "cc1": ["ct", "", "Create Controller", "CrtCtrlr"],
+    "cc2": ["create-controller", "","Create Controller", "CrtCtrlr"],
+    "cm1": ["m", "", "Create Model", "CrtMdl"],
+    "cm2": ["create-model", "", "Create Model", "CrtMdl"],
+    "cd1": ["dao", "", "Create DAO", "CrtDAO"],
+    "cd2": ["create-dao", "", "Create DAO", "CrtDAO"]
 }
