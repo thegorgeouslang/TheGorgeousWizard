@@ -17,4 +17,7 @@ func (this *PrjMkr) CrtPrj(name string) {
 	db := flag.Lookup("db").Value
 	sess := flag.Lookup("sess").Value
 
+	fmt.Println("Project was created in the path " + name)
+	fmt.Printf("Storing option: %s", db)
+	fmt.Println("Session approach: %s", sess)
 }
