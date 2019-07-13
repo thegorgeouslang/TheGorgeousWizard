@@ -33,7 +33,7 @@ func main() {
 	app := AppMux{}
 
 	for k, v := range wolv {
-		if len(*v) > 0 {
+		if len(*v) > 0 && len(cmds[k][3]) > 0 {
 			_ = reflect.ValueOf(&app).MethodByName(cmds[k][3]).
 				Call([]reflect.Value{
 					reflect.ValueOf(*v),
